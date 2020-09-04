@@ -30,6 +30,13 @@ Projects
 
 Work History
 ---
+**Armstrong Transport Group** - Charlotte, NC  
+_Front End Software Engineer_, (Nov 2019 - Present)
+* Worked with a team of engineers to upgrade an existing monolith to a more modern Typescript/React Front End. 
+* Rebuilt the front end for a payment platform that previously could only process one invoice at a time to accomodate multiple invoices at a time utilizing React, Typescript, Redux, Material UI and Sagas.  
+* Actively participated in agile best practices such as paired programming, code reviews, daily stand up meetings, backlog grooming, and sprint planning meetings.
+* Utilized tools like github, JIRA, and VS Code in daily workflows.
+
 **ROI Revolution** - Raleigh, NC  
 _Software Engineering Intern_, (May 2019 - Aug 2019)
 * Worked directly alongside the engineering team in a paired programming setting to design, build, scale, test, and document proprietary applications in Ruby on Rails, Elixir, React, JavaScript, PostgreSQL, and more
