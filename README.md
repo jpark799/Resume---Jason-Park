@@ -9,7 +9,7 @@ Digital marketer turned software developer with a love for learning, data analys
 
 Technologies
 ---
-Javascript, React, Redux, Backbone, jQuery, Bootstrap, CSS, HTML5, Git, Github, Node.js, MongoDB, Passport.js, Express.js, Mongoose, MySQL
+Javascript, React, Redux, Redux-Saga, Typescript, jQuery, Bootstrap, CSS, Material-UI, HTML5, Github, MySQL
 
 Projects
 ---
