@@ -1,4 +1,4 @@
-Jason Park - Full-Stack Software Engineer
+Jason Park - Front-End Software Engineer
 ===
 
 [GitHub](https://github.com/jpark799) | [LinkedIn](https://www.linkedin.com/in/jason-park-0790aab6/) | [jason.j.park79@gmail.com](mailto:jason.j.park79@gmail.com) | Charlotte, NC | (980) 428 - 0008 
