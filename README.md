@@ -9,33 +9,16 @@ Digital marketer turned software developer with a love for learning, data analys
 
 Technologies
 ---
-Javascript, React, Redux, Redux-Saga, Typescript, jQuery, Bootstrap, CSS, Material-UI, HTML5, Github, MySQL
-
-Projects
----
-**Compound That!** - [Link to Project](https://compoundthat.herokuapp.com/) - [Github Repo](https://github.com/jpark799/CompoundThat)
-* A compounding interest calculator that I built for my mother
-* Presented wireframe to user, took in feedback, and executed project
-* Tech Stack: Javascript, Chart.js, Bootstrap
-
-**Included** - [Link to Project](https://included-projectshift.herokuapp.com/) - [Github Repo](https://github.com/jpark799/Included)
-* A front-end web application that makes the data-driven case for why diversity & inclusion are much more than just HR buzzwords
-* Tech Stack: React, Highcharts.js, Parallax-Scroll-React NPM library
-
-**Project Axon** - [Link to Project](https://project-hubspot.herokuapp.com/) - [Github Repo](https://github.com/doss2k/project-hubspot)
-* Full Stack CRM Application 
-* Spearheaded dashboard component 
-* Worked in a team of 11 to complete a full stack web application while implementing agile best practices
-* Tech Stack: React, Redux, Highcharts.js
+Javascript, Typescript, React, Redux, Redux-Saga, jQuery, Bootstrap, CSS, Material-UI, HTML5, Github, MySQL
 
 Work History
 ---
 **Armstrong Transport Group** - Charlotte, NC  
 _Front End Software Engineer_, (Nov 2019 - Present)
-* Worked with a team of software engineers to update proprietary software from an ASP.NET/MVC architecture to a more modern Typescript/React/Redux architecture. 
+* Collaborate with a team of software engineers to update proprietary software from a Razor/Vue.js(version 1.0) frontend to a Typescript/React/Redux front-end while using Balsamiq for mockups and hitting our internal REST APIs. 
 * Rebuilt the front end for a payment platform that previously could only process one invoice at a time to accomodate up to 10 invoices at a time utilizing React, Typescript, Redux, Material UI and Redux-Sagas.  
 * Actively participated in agile best practices such as daily stand up meetings, code reviews, paired programming, backlog grooming, and sprint planning meetings.
-* Utilized tools like Github, JIRA, Slack, and VS Code in daily workflows.
+* Utilized tools like Github, Balsamiq, Jira, Slack, and VS Code in daily workflow.
 
 **ROI Revolution** - Raleigh, NC  
 _Software Engineering Intern_, (May 2019 - Aug 2019)
@@ -63,6 +46,12 @@ _Data Analysis Intern_, (Feb 2016 - June 2016)
 * Developed and standardized new P&L and cash flow financial statements for the company's four corporate locations 
 * Drove the development of a new account receivable process and completed a new set of reports on DSO
 
+Projects
+---
+**Compound That!** - [Link to Project](https://compoundthat.herokuapp.com/) - [Github Repo](https://github.com/jpark799/CompoundThat)
+* A compounding interest calculator that I built for my mother because she recently downloaded Robinhood
+* Presented wireframe to user, took in feedback, and executed project
+* Tech Stack: Javascript, Chart.js, Bootstrap
 
 Awards/Misc.
 ---
