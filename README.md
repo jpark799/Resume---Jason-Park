@@ -9,7 +9,7 @@ Digital marketer turned software developer with a love for learning, data analys
 
 Technologies
 ---
-Javascript, Typescript, React, Redux, Redux-Saga, jQuery, Bootstrap, CSS, Material-UI, HTML5, Github, MySQL
+Javascript(ES6+), Typescript, React, Redux, Redux-Saga, jQuery, Bootstrap, CSS, Material-UI, HTML5, Github, MySQL
 
 Work History
 ---
